@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checklist>
+    <veiculo_id>327295089</veiculo_id>
+    <reboque1_id>327209084</reboque1_id>
+    <reboque2_id></reboque2_id>
+    <reboque3_id></reboque3_id>
+    <operacao_id>163</operacao_id>
+    <transportador_id>968001078</transportador_id>
+    <motorista_id>321060183</motorista_id>
+    <tipo_operacao>TRANSFERÊNCIA</tipo_operacao>
+    <cond_abastecimento>ABASTECIDO</cond_abastecimento>
+    <observacao>Apenas para teste</observacao>
+</checklist>

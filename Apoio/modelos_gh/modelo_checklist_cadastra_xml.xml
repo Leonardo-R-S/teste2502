@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checklist>
+    <tipo_operacao>TRANSFERÊNCIA</tipo_operacao>
+    <cond_abastecimento>abastecido</cond_abastecimento>
+    <observacao>Apenas teste</observacao>
+    <empresa>
+        <tipo>EMBARCADOR</tipo>
+        <cnpj>21863273000130</cnpj>
+        <razao_social>JBS Silva</razao_social>
+        <nome_fantasia>Jao Silva</nome_fantasia>
+        <unidade>001</unidade>
+        <codigo></codigo>
+        <end_rua>Avenida Celso Garcia</end_rua>
+        <end_numero>1255</end_numero>
+        <end_complemento>Bloco A</end_complemento>
+        <end_bairro>Tatuapé</end_bairro>
+        <end_cidade>São Paulo</end_cidade>
+        <end_uf>SP</end_uf>
+        <end_cep>08225365</end_cep>
+        <latitude></latitude>
+        <longitude></longitude>
+        <telefone_1>1125478569</telefone_1>
+        <telefone_2>1125478570</telefone_2>
+        <email>empresa@email.com.br</email>
+        <responsavel>Marcio Moura Filho</responsavel>
+        <responsavel_cargo>Diretor de Operações</responsavel_cargo>
+        <responsavel_telefone></responsavel_telefone>
+        <responsavel_celular>11985456623</responsavel_celular>
+        <responsavel_email>marcio.moura@email.com.br</responsavel_email>
+    </empresa>
+    <motorista>
+        <nome>Fulano da Silva</nome>
+        <cpf>30499856804</cpf>
+        <rg>245878963X</rg>
+        <orgao_emissor>SSP/SP</orgao_emissor>
+        <data_nascimento>13/11/1982</data_nascimento>
+        <nome_mae>Fulaninha da Silva</nome_mae>
+        <estado_civil>Casado</estado_civil>
+        <escolaridade>2º Grau</escolaridade>
+        <cnh_numero>25458965236</cnh_numero>
+        <cnh_categoria>D</cnh_categoria>
+        <cnh_vencimento>23/12/2017</cnh_vencimento>
+        <end_rua>Rua do limoeiros</end_rua>
+        <end_numero>125</end_numero>
+        <end_complemento>Casa 4</end_complemento>
+        <end_bairro>Vila Madalena</end_bairro>
+        <end_cidade>São Paulo</end_cidade>
+        <end_uf>SP</end_uf>
+        <end_cep>08220830</end_cep>
+        <tel_fixo>1123562456</tel_fixo>
+        <tel_celular>11956895623</tel_celular>
+        <nextel>12*01254</nextel>
+        <mopp>10/05/2018</mopp>
+        <aso>10/05/2018</aso>
+        <cdd>12/05/2018</cdd>
+        <capacitacao>12/09/2018</capacitacao>
+        <vinculo>Agregado</vinculo>
+        <empresa_id>1256</empresa_id>
+    </motorista>
+    <veiculo>
+        <placa>CCA7157</placa>
+        <renavam>03298438539</renavam>
+        <marca>Volvo</marca>
+        <modelo>V50 2.4 20V 170cv Aut.</modelo>
+        <cor>Marrom</cor>
+        <ano>2005</ano>
+        <tipo>cavalo mecânico</tipo>
+        <capacidade>12000</capacidade>
+        <numero_antt></numero_antt>
+        <validade_antt></validade_antt>
+        <proprietario>Rodrigo Luiz Giovanni Freitas</proprietario>
+        <proprietario_cpfcnpj>28956697833</proprietario_cpfcnpj>
+        <end_rua>Rodovia Dom Pedro I</end_rua>
+        <end_numero>363</end_numero>
+        <end_complemento></end_complemento>
+        <end_bairro>Chácaras Reunidas Igarapés</end_bairro>
+        <end_cidade>Jacareí</end_cidade>
+        <end_uf>SP</end_uf>
+        <end_cep>12330000</end_cep>
+        <tecnologia>Onix</tecnologia>
+        <id_rastreador>123456</id_rastreador>
+        <comunicacao>GPS/GPRS</comunicacao>
+        <tecnologia_sec>NÃO TEM</tecnologia_sec>
+        <id_rastreador_sec></id_rastreador_sec>
+        <comunicacao_sec>NÃO TEM</comunicacao_sec>
+        <fixo>NÃO</fixo>
+    </veiculo>
+    <reboque1>
+        <placa>IAO7180</placa>
+        <renavam>48953568177</renavam>
+        <marca>Renault</marca>
+        <modelo>Twingo 1.0 8V</modelo>
+        <cor>Vermelho</cor>
+        <ano>1999</ano>
+        <tipo>CARRETA BAU</tipo>
+        <capacidade>12000</capacidade>
+        <numero_antt></numero_antt>
+        <validade_antt></validade_antt>
+        <proprietario>Rodrigo Luiz Giovanni Freitas</proprietario>
+        <proprietario_cpfcnpj>28956697833</proprietario_cpfcnpj>
+        <end_rua>Rodovia Dom Pedro I</end_rua>
+        <end_numero>363</end_numero>
+        <end_complemento></end_complemento>
+        <end_bairro>Chácaras Reunidas Igarapés</end_bairro>
+        <end_cidade>Jacareí</end_cidade>
+        <end_uf>SP</end_uf>
+        <end_cep>12330000</end_cep>
+        <tecnologia>Onix</tecnologia>
+        <id_rastreador>123456</id_rastreador>
+        <comunicacao>GPS/GPRS</comunicacao>
+        <tecnologia_sec>NÃO TEM</tecnologia_sec>
+        <id_rastreador_sec></id_rastreador_sec>
+        <comunicacao_sec>NÃO TEM</comunicacao_sec>
+        <fixo>NÃO</fixo>
+    </reboque1>
+</checklist>

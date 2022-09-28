@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<veiculo>
+    <placa>CCA7157</placa>
+    <renavam>03298438539</renavam>
+    <marca>Volvo</marca>
+    <modelo>V50 2.4 20V 170cv Aut.</modelo>
+    <cor>Marrom</cor>
+    <ano>2005</ano>
+    <tipo>cavalo mecanico</tipo>
+    <capacidade>12000</capacidade>
+    <numero_antt></numero_antt>
+    <validade_antt></validade_antt>
+    <proprietario>Rodrigo Luiz Giovanni Freitas</proprietario>
+    <proprietario_cpfcnpj>28956697833</proprietario_cpfcnpj>
+    <end_rua>Rodovia Dom Pedro I</end_rua>
+    <end_numero>363</end_numero>
+    <end_complemento></end_complemento>
+    <end_bairro>Chácaras Reunidas Igarapés</end_bairro>
+    <end_cidade>Jacareí</end_cidade>
+    <end_uf>SP</end_uf>
+    <end_cep>12330000</end_cep>
+    <tecnologia>Onix</tecnologia>
+    <id_rastreador>123456</id_rastreador>
+    <comunicacao>GPS/GPRS</comunicacao>
+    <tecnologia_sec>NÂO TEM</tecnologia_sec>
+    <id_rastreador_sec></id_rastreador_sec>
+    <comunicacao_sec>NÂO TEM</comunicacao_sec>
+    <fixo>NÂO</fixo>
+</veiculo>

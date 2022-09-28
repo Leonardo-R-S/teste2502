@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<motorista>
+    <nome>Fulano da Silva</nome>
+    <cpf>30499856804</cpf>
+    <rg>245878963X</rg>
+    <orgao_emissor>SSP/SP</orgao_emissor>
+    <data_nascimento>13/11/1982</data_nascimento>
+    <nome_mae>Fulaninha da Silva</nome_mae>
+    <estado_civil>Casado</estado_civil>
+    <escolaridade>2º Grau</escolaridade>
+    <cnh_numero>25458965236</cnh_numero>
+    <cnh_categoria>D</cnh_categoria>
+    <cnh_vencimento>23/12/2017</cnh_vencimento>
+    <end_rua>Rua do limoeiros</end_rua>
+    <end_numero>125</end_numero>
+    <end_complemento>Casa 4</end_complemento>
+    <end_bairro>Vila Madalena</end_bairro>
+    <end_cidade>São Paulo</end_cidade>
+    <end_uf>SP</end_uf>
+    <end_cep>08220830</end_cep>
+    <tel_fixo>1123562456</tel_fixo>
+    <tel_celular>11956895623</tel_celular>
+    <nextel>12*01254</nextel>
+    <mopp>10/05/2018</mopp>
+    <aso>10/05/2018</aso>
+    <cdd>12/05/2018</cdd>
+    <capacitacao>12/09/2018</capacitacao>
+    <vinculo>Agregado</vinculo>
+    <empresa_id>1256</empresa_id>
+</motorista>

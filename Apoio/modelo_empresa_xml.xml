@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<motorista>
+    <tipo>CLIENTE</tipo>
+    <cnpj>12345678912345</cnpj>
+    <razao_social>JBS Silva</razao_social>
+    <nome_fantasia>Jao Silva</nome_fantasia>
+    <unidade>001</unidade>
+    <codigo></codigo>
+    <end_rua>Avenida Celso Garcia</end_rua>
+    <end_numero>1255</end_numero>
+    <end_complemento>Bloco A</end_complemento>
+    <end_bairro>Tatuapé</end_bairro>
+    <end_cidade>São Paulo</end_cidade>
+    <end_uf>SP</end_uf>
+    <end_cep>08225365</end_cep>
+    <latitude></latitude>
+    <longitude></longitude>
+    <telefone_1>1125478569</telefone_1>
+    <telefone_2>1125478570</telefone_2>
+    <email>empresa@email.com.br</email>
+    <responsavel>Marcio Moura Filho</responsavel>
+    <responsavel_cargo>Diretor de Operações</responsavel_cargo>
+    <responsavel_telefone></responsavel_telefone>
+    <responsavel_celular>11985456623</responsavel_celular>
+    <responsavel_email>marcio.moura@email.com.br</responsavel_email>
+</motorista>
